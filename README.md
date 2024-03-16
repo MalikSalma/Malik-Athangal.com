@@ -6,7 +6,8 @@
 <h1>
  <b> BLOG by M Salman Athangal</b>
 </h1>
-<img src="C:\Users\Yoga Book\Downloads\WhatsApp Image 2024-03-16 at 9.09.33 PM.jpeg" height="600" width="550">
+
+![WhatsApp Image 2024-03-16 at 9 09 33 PM (1)](https://github.com/MalikSalma/Malik-Athangal.com/assets/163668952/4e8828e9-352c-493a-8608-700a1e0fe320)
 
 <p>
 my name is salman i am boring for making a web developing
@@ -14,7 +15,8 @@ my name is salman i am boring for making a web developing
 <h2>
  <b>i am making a image in abdullah</b>
 </h2>
-<img src="C:\Users\Yoga Book\Downloads\WhatsApp Image 2024-03-16 at 9.09.33 PM (1).jpeg" height="600" width="550">
+![WhatsApp Image 2024-03-16 at 9 09 33 PM](https://github.com/MalikSalma/Malik-Athangal.com/assets/163668952/a1f46c3a-939e-4cd2-b200-5fb079dadc12)
+
 <p>
 hlo abdullah how are you in my picture
 </p>
@@ -25,7 +27,11 @@ hlo abdullah how are you in my picture
 hlo lion we are going to in our pc
 </p>
 
-<video src="C:\Users\Yoga Book\Desktop\SHAFA_ULLAH_KHAN_ROKHRI_._(_o_dila_yak_dum_faislay_nai_krenday_)_sad_song(360p).mp4" controls height="500" width="800" >
+
+
+https://github.com/MalikSalma/Malik-Athangal.com/assets/163668952/6cedfc61-6a2a-43e7-9477-92d06a0083ac
+
+
 
  
 </body>
